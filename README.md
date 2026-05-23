@@ -17,7 +17,7 @@
 
 I build AI-powered applications and full-stack systems that solve real-world problems. Currently focused on **Agentic AI** and **LLM-based systems**, with hands-on experience taking ideas from research to production.
 
-- Currently building **Mini-GPT** — a transformer model built from scratch to explore the fundamentals of attention mechanisms and LLM architecture
+- Currently building **Email Oppurtunity agent** -- This detects the actionable mails and automate to the most used application.
 - Exploring **Agentic AI**, advanced LLM architectures, and multi-modal systems
 - Open to collaborating on AI-driven applications and full-stack projects
 
